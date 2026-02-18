@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.8",
   "download_url": "https://github.com/khmernes1-wq/sheakmeng/releases/download/1.0.8/AI_Dubber_Ultimate_v1.0.8.exe",
   "release_notes": "✅ Fixed bugs\n✅ Improved performance\n✅ New features added",
   "release_date": "2026-02-18",
@@ -11,4 +11,5 @@
     "google_drive": "1. Upload .exe to Google Drive\n2. Right-click > Share > Anyone with link\n3. Copy link: https://drive.google.com/file/d/FILE_ID/view\n4. Convert to direct: https://drive.google.com/uc?export=download&id=FILE_ID"
   }
 }
+
 
