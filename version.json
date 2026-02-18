@@ -1,19 +1,12 @@
 {
   "version": "1.1.0",
-  "download_url": "https://github.com/khmernes1-wq/sheakmeng/releases/download/1.1.0/AI_Dubber_Ultimate_v1.1.0.exe",
-  "release_notes": "✅ Fixed bugs\n✅ Improved performance\n✅ New features added",
+  "download_url": "https://github.com/khmernes1-wq/sheakmeng/releases/download/v1.1.0/AI_Dubber_Ultimate_v1.1.0.exe",
+  "release_notes": "🐛 Fixed bugs:\n✅ កែ Auto Transcriber timing issues (ត្រឹមត្រូវនាទីជាមួយ Video ដើម)\n✅ កែ Chunk merging timing drift\n✅ កែ Version comparison support (1.0.9a, 1.0.10, etc)\n✅ ធ្វើឱ្យ Gemini prompt ច្បាស់ជាងក្នុងការ timing\n\n⚡ Improvements:\n✅ Better timestamp accuracy for multi-chunk transcription\n✅ Conservative timing validation (no auto-shift)\n✅ Support alpha/beta/rc version naming",
   "release_date": "2026-02-18",
   "minimum_version": "1.0.0",
-  "file_size_mb": 374,
+  "file_size_mb": 366,
   "instructions": {
-    "khmer": "ការប្រើប្រាស់:\n1. Upload file .exe របស់អ្នកទៅ GitHub Releases\n2. Copy download URL\n3. ផ្លាស់ប្តូរ download_url ខាងលើ\n4. Upload file version.json នេះទៅ GitHub raw URL\n5. Copy URL របស់ version.json ដាក់ក្នុង update_config.json\n6. ពេលចុច Update កម្មវិធីនឹង download version ថ្មីស្វ័យប្រវត្តិ",
-    "github_releases": "1. ទៅ GitHub repo > Releases > Create new release\n2. Tag: v1.0.9\n3. Upload .exe file\n4. Publish release\n5. Right-click file > Copy link address",
-    "google_drive": "1. Upload .exe to Google Drive\n2. Right-click > Share > Anyone with link\n3. Copy link: https://drive.google.com/file/d/FILE_ID/view\n4. Convert to direct: https://drive.google.com/uc?export=download&id=FILE_ID"
+    "khmer": "នេះជា template សម្រាប់ upload ទៅ GitHub",
+    "note": "Upload file នេះទៅ GitHub repository ហើយ អ្នកប្រើប្រាស់នឹងទទួលបាន updates ស្វ័យប្រវត្តិ"
   }
 }
-
-
-
-
-
-
