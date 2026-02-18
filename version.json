@@ -2,7 +2,7 @@
   "version": "1.1.0",
   "download_url": "https://github.com/khmernes1-wq/sheakmeng/releases/download/1.1.0/AI_Dubber_Ultimate_v1.1.0.exe",
   "release_notes": "🐛 Fixed bugs:\n✅ កែ Auto Transcriber timing issues (ត្រឹមត្រូវនាទីជាមួយ Video ដើម)\n✅ កែ Chunk merging timing drift\n✅ កែ Version comparison support (1.0.9a, 1.0.10, etc)\n✅ ធ្វើឱ្យ Gemini prompt ច្បាស់ជាងក្នុងការ timing\n\n⚡ Improvements:\n✅ Better timestamp accuracy for multi-chunk transcription\n✅ Conservative timing validation (no auto-shift)\n✅ Support alpha/beta/rc version naming",
-  "release_date": "2026-02-18",
+  "release_date": "2026-02-19",
   "minimum_version": "1.0.0",
   "file_size_mb": 366,
   "instructions": {
@@ -10,6 +10,7 @@
     "note": "Upload file នេះទៅ GitHub repository ហើយ អ្នកប្រើប្រាស់នឹងទទួលបាន updates ស្វ័យប្រវត្តិ"
   }
 }
+
 
 
 
