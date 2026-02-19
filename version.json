@@ -1,14 +1,12 @@
 {
   "version": "1.1.2",
-  "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.1/AI_Dubber_Ultimate_v1.1.1.exe",
-  "release_notes": "🐛 Fixed bugs:\n✅ កែ Update button detection (v1.1.0 detection fixed)\n✅ កែ Version comparison logic bug\n\n⚡ Improvements:\n✅ បន្ថែម Console debug output (ដើម្បីដឹងថា tool ដំណើរការអី)\n✅ បង្ហាញ process details នៅកន្លែងខ្មៅ (Console)\n✅ រាល់ operations មាន console logs សម្រាប់ debugging",
-  "release_date": "2026-02-19",
+  "download_url": "https://github.com/khmernes1-wq/sheakmeng/releases/download/v1.1.2/AI_Dubber_Ultimate_v1.1.2.exe",
+  "release_notes": "🎉 New Features:\n✅ បន្ថែម Telegram Bot GUI Panel សម្រាប់ចែកចាយ Trial Keys\n✅ Bot អាច Auto-generate trial keys (3 ថ្ងៃ, 2 requests/user)\n✅ សាមញ្ញ និងលឿន - ផ្ញើ CPU ID ភ្លាមៗទទួល Key!\n\n🐛 Fixed bugs:\n✅ កែ Bot timeout errors\n✅ ដក Get CPU ID button (មិនចាំបាច់)\n✅ សារ Bot កាន់តែខ្លី និងច្បាស់\n\n⚡ Improvements:\n✅ Bot flow កាន់តែរហ័ស (3 steps only)\n✅ PyQt5 GUI dashboard with statistics\n✅ User management and tracking system",
+  "release_date": "2026-02-20",
   "minimum_version": "1.0.0",
-  "file_size_mb": 366,
+  "file_size_mb": 370,
   "instructions": {
     "khmer": "នេះជា template សម្រាប់ upload ទៅ GitHub",
     "note": "Upload file នេះទៅ GitHub repository ហើយ អ្នកប្រើប្រាស់នឹងទទួលបាន updates ស្វ័យប្រវត្តិ"
   }
 }
-
-
