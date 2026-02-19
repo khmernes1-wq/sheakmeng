@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.1/AI_Dubber_Ultimate_v1.1.1.exe",
   "release_notes": "🐛 Fixed bugs:\n✅ កែ Update button detection (v1.1.0 detection fixed)\n✅ កែ Version comparison logic bug\n\n⚡ Improvements:\n✅ បន្ថែម Console debug output (ដើម្បីដឹងថា tool ដំណើរការអី)\n✅ បង្ហាញ process details នៅកន្លែងខ្មៅ (Console)\n✅ រាល់ operations មាន console logs សម្រាប់ debugging",
   "release_date": "2026-02-19",
@@ -10,4 +10,5 @@
     "note": "Upload file នេះទៅ GitHub repository ហើយ អ្នកប្រើប្រាស់នឹងទទួលបាន updates ស្វ័យប្រវត្តិ"
   }
 }
+
 
