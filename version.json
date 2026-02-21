@@ -1,17 +1,12 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.2/AI_Dubber_Ultimate_v1.1.1.exee",
-  "release_notes": "🎉 New Features:\n✅ បន្ថែម Telegram Bot GUI Panel សម្រាប់ចែកចាយ Trial Keys\n✅ Bot អាច Auto-generate trial keys (3 ថ្ងៃ, 2 requests/user)\n✅ សាមញ្ញ និងលឿន - ផ្ញើ CPU ID ភ្លាមៗទទួល Key!\n\n🐛 Fixed bugs:\n✅ កែ Bot timeout errors\n✅ ដក Get CPU ID button (មិនចាំបាច់)\n✅ សារ Bot កាន់តែខ្លី និងច្បាស់\n\n⚡ Improvements:\n✅ Bot flow កាន់តែរហ័ស (3 steps only)\n✅ PyQt5 GUI dashboard with statistics\n✅ User management and tracking system",
-  "release_date": "2026-02-20",
+  "version": "1.1.2",
+  "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.2/AI_Dubber_Ultimate_v1.1.2.exe",
+  "release_notes": "� New Features:\n✅ Interactive Video Effects - អូសផ្លាស់ប្តូរ Blur/Text/Logo ពេល Play Video!\n✅ Real-time Blur Preview - មើល blur effect real-time លើ video player\n✅ Khmer Font Support - support អក្សរខ្មែរពេញលេញ (Khmer OS, Khmer UI, Leelawadee UI)\n✅ Text Overlay UTF-8 - អក្សរខ្មែរបង្ហាញត្រឹមត្រូវលើ video ហើយ!\n\n🐛 Bug Fixes:\n✅ កែ Text Overlay មិនបង្ហាញលើ video (font path + encoding issues)\n✅ កែ Text Coordinates mapping ពី preview ទៅ actual video\n✅ កែ Video Stop Button - cleanup FFplay process និង UI state\n✅ កែ Font file detection with multiple fallback paths\n✅ កែ UTF-8 text file encoding សម្រាប់ Unicode characters\n\n⚡ Performance Improvements:\n✅ Mouse drag/resize overlays ពេល video play (blur, text, logo)\n✅ Auto-sync coordinates រវាង video player និង thumbnail\n✅ Enhanced debug logging សម្រាប់ troubleshooting\n✅ Better error messages with detailed FFmpeg output\n✅ Improved coordinate calculation for portrait/landscape videos",
+  "release_date": "2026-02-21",
   "minimum_version": "1.0.0",
   "file_size_mb": 370,
   "instructions": {
-    "khmer": "នេះជា template សម្រាប់ upload ទៅ GitHub",
+    "khmer": "Version 1.1.2 - Interactive Effects & Full Khmer Support",
     "note": "Upload file នេះទៅ GitHub repository ហើយ អ្នកប្រើប្រាស់នឹងទទួលបាន updates ស្វ័យប្រវត្តិ"
   }
 }
-
-
-
-
-
